@@ -1,0 +1,14 @@
+C:\Users\nik88\RiderProjects\ChatServer\ChatClientApp\bin\Debug\net9.0\ChatClientApp.exe
+C:\Users\nik88\RiderProjects\ChatServer\ChatClientApp\bin\Debug\net9.0\ChatClientApp.deps.json
+C:\Users\nik88\RiderProjects\ChatServer\ChatClientApp\bin\Debug\net9.0\ChatClientApp.runtimeconfig.json
+C:\Users\nik88\RiderProjects\ChatServer\ChatClientApp\bin\Debug\net9.0\ChatClientApp.dll
+C:\Users\nik88\RiderProjects\ChatServer\ChatClientApp\bin\Debug\net9.0\ChatClientApp.pdb
+C:\Users\nik88\RiderProjects\ChatServer\ChatClientApp\obj\Debug\net9.0\ChatClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nik88\RiderProjects\ChatServer\ChatClientApp\obj\Debug\net9.0\ChatClientApp.AssemblyInfoInputs.cache
+C:\Users\nik88\RiderProjects\ChatServer\ChatClientApp\obj\Debug\net9.0\ChatClientApp.AssemblyInfo.cs
+C:\Users\nik88\RiderProjects\ChatServer\ChatClientApp\obj\Debug\net9.0\ChatClientApp.csproj.CoreCompileInputs.cache
+C:\Users\nik88\RiderProjects\ChatServer\ChatClientApp\obj\Debug\net9.0\ChatClientApp.dll
+C:\Users\nik88\RiderProjects\ChatServer\ChatClientApp\obj\Debug\net9.0\refint\ChatClientApp.dll
+C:\Users\nik88\RiderProjects\ChatServer\ChatClientApp\obj\Debug\net9.0\ChatClientApp.pdb
+C:\Users\nik88\RiderProjects\ChatServer\ChatClientApp\obj\Debug\net9.0\ChatClientApp.genruntimeconfig.cache
+C:\Users\nik88\RiderProjects\ChatServer\ChatClientApp\obj\Debug\net9.0\ref\ChatClientApp.dll
