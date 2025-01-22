@@ -5,6 +5,7 @@ namespace ChatServer;
 
 public class Server
 {
+    //test
     private TcpListener _server;
     private readonly List<ClientHandler> _clients = new();
 
